@@ -95,9 +95,9 @@ Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Securit
  ---
  
 > Pioneera - Networked Sentiment Analysis - Analyst Coder
-- Pioneera is dedicated to preventing burnout and stress in the workplace.
-- Worked on a networked system of applications, serverless functions and microservices
-- OAuth connections to slack, google and microsoft messaging platforms.
+- Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
+- I worked on refactoring a networked system of applications, serverless functions and microservices.
+- Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
 - Linguistic analysis of staff communications to guide stress management.
 - Running in google cloud, with docker containers, pub-sub, serverless functions.
 - CI/CD managed through github actions
@@ -113,23 +113,22 @@ Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Securit
     
 > Howsafe - Kiosk OS
 > 
-- Howsafe is a WHS consultancy that manages large industrial clients up and down the east coast states. 
-- I was brought in to rescue a gateway kiosk project that had been left in an unfinished state after 18 months of development.
-	- I was told it only needed “a bit of a fix” - what they really had was an electron-based stand-alone prototype with no network layer.    
+- Howsafe is a WHS consultancy that works with industrial clients across Australia. 
+- I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
+	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
 - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
-	- A look-alike prototype of it was available in the first week, which was used by an online team to develop the concept and test the result.
-- Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC,
-running a custom local server.   
+	- After a week I had a look-alike prototype of the new kiosk available, which was used by the online review team to test the concept and develop the final application.
+- Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.   
 	- It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
 - Its fun to build physical devices.   I’d be interested in  doing more work that ties together sensor platforms, robotics and IOT.
 
 --- 
 
->Telstra | Coder Analyst | 2003-2006
-IIS, perl, SQL, javascript
-- Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
-- Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
-- Proved that incentive wages successfully motivate increased productivity and throughput.
+Telstra | Coder Analyst | 2003-2006
+- IIS, perl, SQL, javascript
+> - Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
+> - Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
+> - Proved that incentive wages successfully motivate increased productivity and throughput.
 
 ---
 
