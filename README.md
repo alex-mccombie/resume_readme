@@ -1,6 +1,7 @@
 # Resume: Alex McCombie - Coder Analyst
 
 | name | Alex McCombie |
+| ---- | ----|
 | role | Systems Analyst Coder |
 | email | alex.mccombie@lspacelabs.com |
 | mobile | 0410 421 362 |
