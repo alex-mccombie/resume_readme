@@ -30,14 +30,16 @@
 
 - Mission oriented
 	- Solving human problems is the purpose of all business and technology.  
+		- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   
 	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  
-	- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   
-	- I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
+		- I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
 
 - Tuned in
 	- Remote work also means I get to choose my soundtrack.  
-	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   I have specific tracks (links below) I use to get into a coding state of mind so I can see the imaginary connections.   It’s much easier to modify complex behaviours and write code that fits a new design when you have a clear image of it.   The music has just become part of the toolkit over the years.
-
+	- 	Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
+	- Visualising software takes practice and the right tunes.  Once you can see it, you can change it.
+		- I have specific tracks (links below) I use to get into a coding state of mind so I can see the connections.   
+	
 - Performance coding
 	- Coding in the cloud age has become a performance art.
 		- As a coder, I am always aware of my audience.   They are going to experience my work, and the aim is to code something they will love.   
