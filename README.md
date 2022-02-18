@@ -11,17 +11,11 @@
 
 - My Values
 	- **Uptime** :  I know exactly how online my system are, and upgrade them past 100%
-
-	- **Signal to noise** : I am able to filter real world noise and focus on what is important.
-
+		- **Signal to noise** : I am able to filter real world noise and focus on what is important.
 	- **Machine Learning** : I observe and record all available data to reveal reality.
-	
-	- **Turing tested** - In an environment of video meetings, I can pass as a human.
-	
+		- **Turing tested** - In an environment of video meetings, I can pass as a human.
 	- **Remote access** - I work better remotely. The proof is in the code I post.
-	
-	- **Broadcasting** - I care about growing userbases.  The more the merrier!
-	
+		- **Broadcasting** - I care about growing userbases.  The more the merrier!
 	- **Client driven** - I am willing to bug people in IT so that customers get a seamless experience.
 
 - Experience
@@ -54,9 +48,10 @@
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
 
 ---
-> Coding soundtrack:
-> Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8] (https://www.youtube.com/watch?v=vSzCv4gozm8) 
-> Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
+
+> - Coding soundtrack
+> 	- Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8] (https://www.youtube.com/watch?v=vSzCv4gozm8) 
+> 	- Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
 
 <div style="page-break-after: always"></div>
 ---
