@@ -1,54 +1,60 @@
 # Resume: Alex McCombie - Coder Analyst
 Available 19/2/2022.
 
->resume: Alex McCombie
-
->role: Systems Analyst Coder
-
->email: alex.mccombie@lspacelabs.com
-
->mobile: 0410 421 362
-
->region: Maitland, Newcastle, NSW
+> resume: Alex McCombie
+> role: Systems Analyst Coder
+> email: alex.mccombie@lspacelabs.com
+> mobile: 0410 421 362
+> region: Maitland, Newcastle, NSW
 
 Values
 	* **Uptime**:  I know exactly how online my system are, and upgrade them past 100%
+	
 	* **Signal to noise** - I am able to filter real world noise and focus on what is important.
+	
 	* **Machine Learning** - I observe and record all available data to reveal reality.
+	
 	* **Turing tested** - In an environment of video meetings, I can pass as a human.
+	
 	* **Remote access** - I work better remotely. The proof is in the code I post.
+	
 	* **Broadcasting** - I care about growing userbases.  The more the merrier!
+	
 	* **Client driven** - I am willing to bug people in IT so that customers get a seamless experience.
 
+- Experience
 	- I’ve written so many lines of code.  If someone explains some new data or answer they are trying to find, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  I like to code.
- 
-	- I am really easy-going about everything except software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
+ 	- I am really easy-going about everything except software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
 
-- Some people have difficulties with remote work.   Not me - that's where I do my best work.
+- Working remotely
+	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
 	- I like meetings that involve a lot of screen sharing of working prototypes and solutions.
 	- A coders work can be judged from anywhere.
 	- I am happy in any role where I am judged by my code.
 
-- Solving human problems is the purpose of all business and technology.  
+- Meaningful work
+	- Solving human problems is the purpose of all business and technology.  
 	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  
 	- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   I aim to over-perform, but I want to over-perform in an ethical industry that the world really needs.   
 
-- Remote work also means I get to choose my soundtrack.  
+- Tuned In
+	- Remote work also means I get to choose my soundtrack.  
 	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   I have specific tracks (links below) I use to get into a coding state of mind so I can see the imaginary connections.   It’s much easier to modify complex behaviours and write code that fits a new design when you have a clear image of it.   The music has just become part of the toolkit over the years.
 
-- As a coder, I am always aware of my audience.  
+- Performance coder
+	- As a coder, I am always aware of my audience.  
 	- They are going to experience my work, and the aim is to code something they will love.   Coding in the cloud age has become a performance art.   When there is an audience with an urgent problem, the solution is sometimes just a short code sprint away.   Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
 
-- I also understand that most people don’t really give a flying _fig_ about software.
+- User Friendly
+	- I also understand that most people don’t really give a flying _fig_ about software.
 	- They just want the software to work so they can get on with their day.   
 	- I speak fluent computerese as a second language, but I try to avoid speaking it around humans.
 	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years, but you can safely assume I’ve worked with it, and I am always interested in conquering more. 
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
-  
 
->Coding soundtrack:
->Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8 
-](https://www.youtube.com/watch?v=vSzCv4gozm8) Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
+> Coding soundtrack:
+> Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8 
+] (https://www.youtube.com/watch?v=vSzCv4gozm8) Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
 
 <div style="page-break-after: always"></div>
 ---
