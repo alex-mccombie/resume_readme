@@ -89,7 +89,7 @@
  
  ---
  
-#### Pioneera - Networked Sentiment Analysis - 2021-2022 Analyst Coder
+#### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
 > - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
 > - I worked on refactoring a networked system of applications, serverless functions and microservices.
 > - Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
@@ -106,7 +106,7 @@
 
 ---
     
-#### Howsafe - Kiosk OS
+#### Howsafe | Kiosk OS | 2021
 > - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
 > - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
 > 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
