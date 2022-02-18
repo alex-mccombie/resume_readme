@@ -47,8 +47,8 @@
 - User friendly
 	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
 		- I speak fluent computerese as a second language, but I try to avoid speaking it around humans.
-	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.  But you can safely assume I’ve worked with it.
-	- 	And yet I am always interested in conquering another platform. 
+	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.
+		- But you can safely assume I’ve worked with it, and I am always interested in conquering another. 
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
 
 ---
