@@ -1,5 +1,5 @@
-# resume_readme
-My github resume.
+# Resume: Alex McCombie - Coder Analyst
+Available 19/2/2022.
 
 >resume: Alex McCombie
 >role: Systems Analyst Coder
