@@ -1,8 +1,6 @@
-# The resume of Alex McCombie, coder analyst.
+# Resume of Alex McCombie : Coder Analyst.
 
-| name | Alex McCombie |
 | ---- | ----|
-| role | Coder Analyst |
 | email | alex.mccombie@lspacelabs.com |
 | mobile | 0410 421 362 |
 | region | Maitland, Newcastle, NSW, Australia |
