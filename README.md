@@ -10,13 +10,13 @@
 
 
 - My favourite things:
-	- **Uptime** :  I know exactly how online my system are, and upgrade them past 100%
+	- **Remotely accessible** - I work better remotely. The proof is in the code I post.
+		- **Broadcast Ready** - I care about growing userbases.  The more the merrier!
+	- **Uptime** :  I know exactly how online my system are, and upgrade them to hit 100% uptime.
 		- **Signal from noise** : I am able to filter real world noise and focus on what is important.
 	- **Machine Learning** : I observe and record all available data to reveal reality.
-		- **Turing tests** - In an environment of video meetings, I can often pass as a human.
-	- **Remote access** - I work better remotely. The proof is in the code I post.
-		- **Broadcasting** - I care about growing userbases.  The more the merrier!
-	- **Client driven** - I am willing to bug people in IT if required to send a seamless user experience.
+		- **Turing tested** - In an environment of video meetings, I can often pass as a human.
+	- **User friendly** - I am willing to bug people in IT if required to send a seamless user experience.
 
 - Experience
 	- I’ve written so many lines of code.  If someone explains some new data or answer they are trying to find, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  I like to code.
@@ -29,23 +29,23 @@
 	- A coders work can be judged from anywhere.
 	- I can thrive in any role where I am judged by my code.
 
-- Meaningful work
+- Mission oriented
 	- Solving human problems is the purpose of all business and technology.  
 	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  
 	- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   
-	- I always aim to over-perform - but I want to over-perform in an ethical industry that the world really needs.   
+	- I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
 
-- Tuned In
+- Tuned in
 	- Remote work also means I get to choose my soundtrack.  
 	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   I have specific tracks (links below) I use to get into a coding state of mind so I can see the imaginary connections.   It’s much easier to modify complex behaviours and write code that fits a new design when you have a clear image of it.   The music has just become part of the toolkit over the years.
 
-- Performance coder
+- Performance coding
 	- Coding in the cloud age has become a performance art.
 		- As a coder, I am always aware of my audience.   They are going to experience my work, and the aim is to code something they will love.   
 	- When there is an audience with an urgent problem, the solution is sometimes just a short code sprint away.   
 	- 	Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
 
-- User Friendly
+- User friendly
 	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
 		- I speak fluent computerese as a second language, but I try to avoid speaking it around humans.
 	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.  But you can safely assume I’ve worked with it.
@@ -59,9 +59,10 @@
 > 	- Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA]
 
 <div style="page-break-after: always"></div>
+
 ---
 
-## My Story
+## Background
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
 	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
 - I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
@@ -71,7 +72,7 @@
 	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
 --- 
 
-launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
+# launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
 > Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 > * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 > * launchpad SaaS platform
@@ -89,7 +90,7 @@ launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder
  
  ---
  
-Pioneera - Networked Sentiment Analysis - Analyst Coder
+# Pioneera - Networked Sentiment Analysis - 2021-2022 Analyst Coder
 > - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
 > - I worked on refactoring a networked system of applications, serverless functions and microservices.
 > - Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
@@ -106,7 +107,7 @@ Pioneera - Networked Sentiment Analysis - Analyst Coder
 
 ---
     
-Howsafe - Kiosk OS
+# Howsafe - Kiosk OS
 > - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
 > - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
 > 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
@@ -118,7 +119,7 @@ Howsafe - Kiosk OS
 
 --- 
 
-Telstra | Coder Analyst | 2003-2006
+# Telstra | Coder Analyst | 2003-2006
 > - IIS, perl, SQL, javascript
 > - Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
 > - Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
@@ -126,7 +127,7 @@ Telstra | Coder Analyst | 2003-2006
 
 ---
 
-Australian Wine Selectors | Coder Analyst | 2002-2003
+# Australian Wine Selectors | Coder Analyst | 2002-2003
 > 	- IIS, perl, SQL, javascript
 > - web design and administration
 > - high quality web content ported directly from AWS magazine publishers.
@@ -135,13 +136,13 @@ Australian Wine Selectors | Coder Analyst | 2002-2003
 
 ---
 
-Aljan Internet | Operations Manager, Sysadmin | 2001-2002
+# Aljan Internet | Operations Manager, Sysadmin | 2001-2002
 > 	- unix, perl, cisco routers, SQL, apache
 > - Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
 
 ---
 
-Northpower | Origin Energy | Coder Analyst  | 1997-2000
+# Northpower | Origin Energy | Coder Analyst  | 1997-2000
 > 	- SQL, pascal, C++, Delphi, Oracle, unix
 > - Northpower was formed from the merger of nine large councils and their electricity infrastructure into a single energy company covering most of regional NSW. I was assigned to the stores project, and then promoted to manage, conversion of the stores / material management system from a vt-100 terminal system into a modern GUI.
 > - The project had stalled, as the vendor’s GUI system proved incapable of managing concurrent transactions. Each council had its own stores systems of thousands of stock items that needed to be rationalised into a single companywide system. Stores depots were often in remote locations operating over unreliable ADSL copper, and the chosen platform struggled even on a LAN connection. Staff were becoming sceptical that a working system was even possible.
@@ -212,10 +213,10 @@ This was a top-rated solution to a problem on codewars.com:
 function DUPLICATE_COUNT(text){return [...new Set([...text.toLowerCase()].sort().filter((c,p,a)=>c===a[p-1]))].length}
 ```
 
-Clever like this allows you to write powerful one-liners.
-Avoid them - they are so clever they event defy understanding.     
-I’m impressed at the sheer work that one line can do, but I would refer to it as “write-only” code - because even if you can write it, no-one else can read it.  
-Apparently this one-liner is "a function that counts duplicate characters in a string."   
+Clever code tricks like this allow you to write powerful one-liners.
+They are so clever they event defy understanding.     Avoid them.
+I would refer this as “write-only” code - even if you can write it, no-one else will be able to read it.  
+Hint - its "a function that counts duplicate characters in a string."   
 
 My preferred solution would be more like:
 ```javascript
@@ -235,9 +236,7 @@ function DUPLICATE_COUNT(text){
 	return(DuplicateCount);
 }
 ```
-- Meaningful variable names allow the function to read like a flowchart.
-- Production code gets written once, but will need to be read many times.
-- One-liners take lots of experimentation to get right, and it's hard to predict how it would react to slight variations in the source data.
+- Production code gets written once, but will need to be read many times.   Meaningful variable names allow the function to read like a flowchart.
 - My version actually runs a bit faster too, because it's simple and optimises well.
 
 <div style="page-break-after: always"></div>
