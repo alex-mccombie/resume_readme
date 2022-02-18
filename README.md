@@ -65,10 +65,10 @@
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
 	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
 - I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
-	- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 - Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
-	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
+- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
+	- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 --- 
 
 #### launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
