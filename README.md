@@ -2,10 +2,15 @@
 Available 19/2/2022.
 
 >resume: Alex McCombie
+>
 >role: Systems Analyst Coder
+>
 >email: alex.mccombie@lspacelabs.com
+>
 >mobile: 0410 421 362
+>
 >region: Maitland, Newcastle, NSW
+>
 >title: Resume 2.0 - Alex McCombie
 
 * **Uptime**:  I know exactly how online my system are, and upgrade them past 100%
