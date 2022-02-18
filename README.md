@@ -194,7 +194,7 @@
 > - Jack Greenrich - Technical Lead, Resources Division, University of Newcastle
 > 	- Colleague, fellow UON student and friend of long standing.
 > 	- [jack.greenrich@newcastle.edu.au](mailto:jack.greenrich@newcastle.edu.au)
-> 	-(02) 4921 6462
+> 	- (02) 4921 6462
 
 
 
