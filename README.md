@@ -181,17 +181,17 @@
 > 	- [mark@howsafe.com.au](mailto:mark@howsafe.com.au)
 > 	- 0418 465 118
 
-> Larry Clayton - CEO, SecurityWorx
+> - Larry Clayton - CEO, SecurityWorx
 > 	- launchpad client, 2011 to 2020
 > 	- [larry@securityworx.com.au](mailto:larry@securityworx.com.au)
 > 	- 0412 434 554
 
-> Tony Daou - CEO, ISec
+> - Tony Daou - CEO, ISec
 > 	- launchpad client, 2008 to 2018
 > 	- [tony.daou@isec.com.au](mailto:tony.daou@isec.com.au)
 > 	- 0410 610 691
 
-> Jack Greenrich - Technical Lead, Resources Division, University of Newcastle
+> - Jack Greenrich - Technical Lead, Resources Division, University of Newcastle
 > 	- Colleague, fellow UON student and friend of long standing.
 > 	- [jack.greenrich@newcastle.edu.au](mailto:jack.greenrich@newcastle.edu.au)
 > 	-(02) 4921 6462
