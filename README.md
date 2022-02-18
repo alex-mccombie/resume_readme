@@ -68,7 +68,7 @@
 - Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
 - I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
-	- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
+
 --- 
 
 #### launchpad labs | 2007-2021 | Founder, Analyst Coder 
