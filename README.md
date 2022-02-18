@@ -72,7 +72,7 @@
 	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
 --- 
 
-# launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
+### launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
 > Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 > * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 > * launchpad SaaS platform
@@ -90,7 +90,7 @@
  
  ---
  
-# Pioneera - Networked Sentiment Analysis - 2021-2022 Analyst Coder
+### Pioneera - Networked Sentiment Analysis - 2021-2022 Analyst Coder
 > - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
 > - I worked on refactoring a networked system of applications, serverless functions and microservices.
 > - Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
@@ -107,7 +107,7 @@
 
 ---
     
-# Howsafe - Kiosk OS
+### Howsafe - Kiosk OS
 > - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
 > - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
 > 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
@@ -119,7 +119,7 @@
 
 --- 
 
-# Telstra | Coder Analyst | 2003-2006
+#### Telstra | Coder Analyst | 2003-2006
 > - IIS, perl, SQL, javascript
 > - Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
 > - Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
@@ -127,7 +127,7 @@
 
 ---
 
-# Australian Wine Selectors | Coder Analyst | 2002-2003
+#### Australian Wine Selectors | Coder Analyst | 2002-2003
 > 	- IIS, perl, SQL, javascript
 > - web design and administration
 > - high quality web content ported directly from AWS magazine publishers.
@@ -136,27 +136,27 @@
 
 ---
 
-# Aljan Internet | Operations Manager, Sysadmin | 2001-2002
+#### Aljan Internet | Operations Manager, Sysadmin | 2001-2002
 > 	- unix, perl, cisco routers, SQL, apache
 > - Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
 
 ---
 
-# Northpower | Origin Energy | Coder Analyst  | 1997-2000
+#### Northpower | Origin Energy | Coder Analyst  | 1997-2000
 > 	- SQL, pascal, C++, Delphi, Oracle, unix
 > - Northpower was formed from the merger of nine large councils and their electricity infrastructure into a single energy company covering most of regional NSW. I was assigned to the stores project, and then promoted to manage, conversion of the stores / material management system from a vt-100 terminal system into a modern GUI.
 > - The project had stalled, as the vendor’s GUI system proved incapable of managing concurrent transactions. Each council had its own stores systems of thousands of stock items that needed to be rationalised into a single companywide system. Stores depots were often in remote locations operating over unreliable ADSL copper, and the chosen platform struggled even on a LAN connection. Staff were becoming sceptical that a working system was even possible.
 > - I developed a radically simpler database client that did not require record locking -  it was robust enough to work at remote store locations over intermittent network connections.   This client/server model became the standard client model for other teams, and the overall conversion resulted in a system that turned nine electricity providers into one statewide provider.
 ---
-Hastings Council | Data Analyst / Coder | 1996-1997
+#### Hastings Council | Data Analyst / Coder | 1996-1997
 > pascal, Delphi, DEC unix, SQL
 > - Created financial modelling tools for pricing wholesale electricity, and visualising trends and modelling different pricing scenarios. From here I was transferred to the conversion of a vt-100 minicomputer system, being given responsibility for their stores and material logistics system.
 
-QRT | Business Analyst / Coder | 1994-1995 |
+#### QRT | Business Analyst / Coder | 1994-1995 |
 > APL, just-in-time logistics, pascal, SQL
 > - Worked with clients such as BHP, GMH and Ford to optimise supply logistics for complex just-in-time production chains.
 
-Brambles Industrial Services | Business Analyst / Coder | 1992-1993 |
+#### Brambles Industrial Services | Business Analyst / Coder | 1992-1993 |
 > Borland pascal, visual basic, SQL
 > - Created a rostering / activity tracking / payroll system for the transport division.
 > - I converted a complex union-mandated paper system of distributing overtime work that required three administrative staff to manage, into a real-time rostering system that could be managed by a single staff member.
