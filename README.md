@@ -55,8 +55,8 @@
 ---
 
 > - Coding soundtrack
-> 	- Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8] (https://www.youtube.com/watch?v=vSzCv4gozm8) 
-> 	- Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
+> 	- Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8]
+> 	- Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA]
 
 <div style="page-break-after: always"></div>
 ---
