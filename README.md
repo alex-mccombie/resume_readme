@@ -75,39 +75,38 @@ Available 19/2/2022.
 	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
 --- 
 
-> launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
-
-Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
-* Independent provider of SaaS CRM, rostering and HR systems to the security industry
-* launchpad SaaS platform
-	* Innovative early adopter of dynamic web interfaces - node.js platform providing web access to a wide range of security related administrative functions.
-	- A simple unified web application providing: 
-		- automatic licence checking, rostering, payroll
-		- automated two-way sms staff comms
-		- automated creation of print-quality PDF invoices, timesheets, payslips
-		- data analysis integrations with excel and MYOB
-		- licence scans. photo ID, licence renewal management 
-		- KPI tracking, project management.
-	- This system was solidly online 24/7 for over a decade
-	- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   
-	- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
+launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
+> Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
+> * Independent provider of SaaS CRM, rostering and HR systems to the security industry
+> * launchpad SaaS platform
+> 	* Innovative early adopter of dynamic web interfaces - node.js platform providing web access to a wide range of security related administrative functions.
+> 	- A simple unified web application providing: 
+> 		- automatic licence checking, rostering, payroll
+> 		- automated two-way sms staff comms
+> 		- automated creation of print-quality PDF invoices, timesheets, payslips
+> 		- data analysis integrations with excel and MYOB
+> 		- licence scans. photo ID, licence renewal management 
+> 		- KPI tracking, project management.
+> 	- This system was solidly online 24/7 for over a decade
+> 	- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   
+> 	- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
  
  ---
  
-> Pioneera - Networked Sentiment Analysis - Analyst Coder
-- Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
-- I worked on refactoring a networked system of applications, serverless functions and microservices.
-- Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
-- Linguistic analysis of staff communications to guide stress management.
-- Running in google cloud, with docker containers, pub-sub, serverless functions.
-- CI/CD managed through github actions
-- Bulk polling of external messaging systems:
-	- google workspace 
-	- Microsoft Graph 
-	- Slack - with custom slackbot functionality.
--  Unified event logging console 
-	- detailed capture and tracking of system events, errors, statuses from anywhere in the codebase.
-	- captures system activity from diverse cloud-based microservices and containers into a centralised web-based system log.
+Pioneera - Networked Sentiment Analysis - Analyst Coder
+> - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
+> - I worked on refactoring a networked system of applications, serverless functions and microservices.
+> - Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
+> - Linguistic analysis of staff communications to guide stress management.
+> - Running in google cloud, with docker containers, pub-sub, serverless functions.
+> - CI/CD managed through github actions
+> - Bulk polling of external messaging systems:
+> 	- google workspace 
+> 	- Microsoft Graph 
+> 	- Slack - with custom slackbot functionality.
+> -  Unified event logging console 
+> 	- detailed capture and tracking of system events, errors, statuses from anywhere in the codebase.
+> 	- captures system activity from diverse cloud-based microservices and containers into a centralised web-based system log.
 
 ---
     
@@ -131,82 +130,97 @@ Telstra | Coder Analyst | 2003-2006
 
 ---
 
->Australian Wine Selectors | Coder Analyst | 2002-2003
-	- IIS, perl, SQL, javascript
-- web design and administration
-- high quality web content ported directly from AWS magazine publishers.
-- online subscription and events management systems
-- call centre CRM  systems.
+Australian Wine Selectors | Coder Analyst | 2002-2003
+> 	- IIS, perl, SQL, javascript
+> - web design and administration
+> - high quality web content ported directly from AWS magazine publishers.
+> - online subscription and events management systems
+> - call centre CRM  systems.
 
 ---
 
->Aljan Internet | Operations Manager, Sysadmin | 2001-2002
-	- unix, perl, cisco routers, SQL, apache
-- Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
----
->Northpower | Origin Energy | Coder Analyst  | 1997-2000
-	- SQL, pascal, C++, Delphi, Oracle, unix
-- Northpower was formed from the merger of nine large councils and their electricity infrastructure into a single energy company covering most of regional NSW. I was assigned to the stores project, and then promoted to manage, conversion of the stores / material management system from a vt-100 terminal system into a modern GUI.
-- The project had stalled, as the vendor’s GUI system proved incapable of managing concurrent transactions. Each council had its own stores systems of thousands of stock items that needed to be rationalised into a single companywide system. Stores depots were often in remote locations operating over unreliable ADSL copper, and the chosen platform struggled even on a LAN connection. Staff were becoming sceptical that a working system was even possible.
-- I developed a radically simpler database client that did not require record locking -  it was robust enough to work at remote store locations over intermittent network connections.   This client/server model became the standard client model for other teams, and the overall conversion resulted in a system that turned nine electricity providers into one statewide provider.
----
->Hastings Council | Data Analyst / Coder | 1996-1997
-pascal, Delphi, DEC unix, SQL
-- Created financial modelling tools for pricing wholesale electricity, and visualising trends and modelling different pricing scenarios. From here I was transferred to the conversion of a vt-100 minicomputer system, being given responsibility for their stores and material logistics system.
+Aljan Internet | Operations Manager, Sysadmin | 2001-2002
+> 	- unix, perl, cisco routers, SQL, apache
+> - Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
 
->QRT | Business Analyst / Coder | 1994-1995 |
-APL, just-in-time logistics, pascal, SQL
-- Worked with clients such as BHP, GMH and Ford to optimise supply logistics for complex just-in-time production chains.
+---
 
->Brambles Industrial Services | Business Analyst / Coder | 1992-1993 |
-Borland pascal, visual basic, SQL
-- Created a rostering / activity tracking / payroll system for the transport division.
-- I converted a complex union-mandated paper system of distributing overtime work that required three administrative staff to manage, into a real-time rostering system that could be managed by a single staff member.
+Northpower | Origin Energy | Coder Analyst  | 1997-2000
+> 	- SQL, pascal, C++, Delphi, Oracle, unix
+> - Northpower was formed from the merger of nine large councils and their electricity infrastructure into a single energy company covering most of regional NSW. I was assigned to the stores project, and then promoted to manage, conversion of the stores / material management system from a vt-100 terminal system into a modern GUI.
+> - The project had stalled, as the vendor’s GUI system proved incapable of managing concurrent transactions. Each council had its own stores systems of thousands of stock items that needed to be rationalised into a single companywide system. Stores depots were often in remote locations operating over unreliable ADSL copper, and the chosen platform struggled even on a LAN connection. Staff were becoming sceptical that a working system was even possible.
+> - I developed a radically simpler database client that did not require record locking -  it was robust enough to work at remote store locations over intermittent network connections.   This client/server model became the standard client model for other teams, and the overall conversion resulted in a system that turned nine electricity providers into one statewide provider.
+---
+Hastings Council | Data Analyst / Coder | 1996-1997
+> pascal, Delphi, DEC unix, SQL
+> - Created financial modelling tools for pricing wholesale electricity, and visualising trends and modelling different pricing scenarios. From here I was transferred to the conversion of a vt-100 minicomputer system, being given responsibility for their stores and material logistics system.
+
+QRT | Business Analyst / Coder | 1994-1995 |
+> APL, just-in-time logistics, pascal, SQL
+> - Worked with clients such as BHP, GMH and Ford to optimise supply logistics for complex just-in-time production chains.
+
+Brambles Industrial Services | Business Analyst / Coder | 1992-1993 |
+> Borland pascal, visual basic, SQL
+> - Created a rostering / activity tracking / payroll system for the transport division.
+> - I converted a complex union-mandated paper system of distributing overtime work that required three administrative staff to manage, into a real-time rostering system that could be managed by a single staff member.
+
+
+
+
+
+
+
 
 <div style="page-break-after: always"></div>
 ---
 
 ## References
->Mark Howe - CEO, Howsafe PLC
-launchpad customer, 2021
-[mark@howsafe.com.au](mailto:mark@howsafe.com.au)
-0418 465 118
+> Mark Howe - CEO, Howsafe PLC
+> launchpad customer, 2021
+> [mark@howsafe.com.au](mailto:mark@howsafe.com.au)
+> 0418 465 118
 
->Larry Clayton - CEO, SecurityWorx
-launchpad customer, 2011 to 2020
-[larry@securityworx.com.au](mailto:larry@securityworx.com.au)
-0412 434 554
+> Larry Clayton - CEO, SecurityWorx
+> launchpad customer, 2011 to 2020
+> [larry@securityworx.com.au](mailto:larry@securityworx.com.au)
+> 0412 434 554
 
->Tony Daou - CEO, ISec
-launchpad customer, 2008 to 2018
-[tony.daou@isec.com.au](mailto:tony.daou@isec.com.au)
-0410 610 691
+> Tony Daou - CEO, ISec
+> launchpad customer, 2008 to 2018
+> [tony.daou@isec.com.au](mailto:tony.daou@isec.com.au)
+> 0410 610 691
 
->Jack Greenrich - Technical Lead, Resources Division, University of Newcastle
-Colleague, fellow UON student and friend of long standing.
-[jack.greenrich@newcastle.edu.au](mailto:jack.greenrich@newcastle.edu.au)
-(02) 4921 6462
+> Jack Greenrich - Technical Lead, Resources Division, University of Newcastle
+> Colleague, fellow UON student and friend of long standing.
+> [jack.greenrich@newcastle.edu.au](mailto:jack.greenrich@newcastle.edu.au)
+> (02) 4921 6462
 
->John Brattan - System Administration, IT Services - Operations, University of Newcastle
-Schoolmate, fellow UON student and friend of long standing.
-[john.brattan@newcastle.edu.au](mailto:john.brattan@newcastle.edu.au)
-(02) 4985 4174
-   
+> John Brattan - System Administration, IT Services - Operations, University of Newcastle
+> Schoolmate, fellow UON student and friend of long standing.
+> [john.brattan@newcastle.edu.au](mailto:john.brattan@newcastle.edu.au)
+> (02) 4985 4174
+
+
+
+
+
+
+
+
 <div style="page-break-after: always"></div>
+---
 Appendix: Read/Write Coding Style.
 
 This was a top-rated solution to a problem on codewars.com:
 ```
-function DUPLICATE_COUNT(text){
-return [...new Set([...text.toLowerCase()].sort().filter((c,p,a)=>c===a[p-1]))].length
-}
+function DUPLICATE_COUNT(text){return [...new Set([...text.toLowerCase()].sort().filter((c,p,a)=>c===a[p-1]))].length}
 ```
-Clever coding tricks allow you to write powerful one-liners.
-I generally avoid them.   They are so clever they defy understanding.     
+Clever like this allows you to write powerful one-liners.
+Avoid them - they are so clever they event defy understanding.     
+I’m impressed at the sheer work that one line can do, but I would refer to it as “write-only” code - because even if you can write it, no-one else can read it.  
 Apparently this one-liner is "a function that counts duplicate characters in a string."   
- I’m impressed at the sheer work that one line can do, but I would refer to it as “write-only” code - because even if you can write it, no-one else can read it.  
 
-My solution would be more like this:
+My preferred solution would be more like:
 ```
 function DUPLICATE_COUNT(text){
 // Return the number of repeated characters in the input string
@@ -224,9 +238,9 @@ function DUPLICATE_COUNT(text){
 	return(DuplicateCount);
 }
 ```
-- Production code gets written once, but will need to be read many times.
 - Meaningful variable names allow the function to read like a flowchart.
-- That one-liner probably took lots of experimentation to get right, and it would be hard to predict how it would react to slight variations in the source data.
+- Production code gets written once, but will need to be read many times.
+- One-liners take lots of experimentation to get right, and it's hard to predict how it would react to slight variations in the source data.
 - My version actually runs a bit faster too, because it's simple and optimises well.
 
 <div style="page-break-after: always"></div>
