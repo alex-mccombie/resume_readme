@@ -61,7 +61,7 @@
 
 ---
 
-## Background
+## Change History
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
 	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
 - I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
@@ -71,7 +71,7 @@
 	- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 --- 
 
-#### launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
+#### launchpad labs | 2007-2021 | Founder, Analyst Coder 
 > Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 > * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 > * launchpad SaaS platform
