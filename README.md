@@ -68,14 +68,15 @@ Available 19/2/2022.
 ## My Story
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
 	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
-- I’ve written code solving a wide range of business problems for some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
-	- I've written for any platform I can get my hands on - C++,  assembly code, node, mobile phones, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
+- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
+	- I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
+	- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 - Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
-- Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 --- 
 
-> launchpad labs - 2007-2021	- Founder, Lead designer, Analyst Coder 
+> launchpad labs - 2007-2021 - Founder, Lead designer, Analyst Coder 
+
 Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 * launchpad SaaS platform
@@ -87,14 +88,15 @@ Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Securit
 		- data analysis integrations with excel and MYOB
 		- licence scans. photo ID, licence renewal management 
 		- KPI tracking, project management.
-
-This system was kept online 24/7 for over a decade, and was used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   We provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
+	- This system was solidly online 24/7 for over a decade
+	- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   
+	- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
  
  ---
  
-> Pioneera - Networked Sentiment Analysis
+> Pioneera - Networked Sentiment Analysis - Analyst Coder
 - Pioneera is dedicated to preventing burnout and stress in the workplace.
-- Working on a networked system of applications, serverless functions and microservices
+- Worked on a networked system of applications, serverless functions and microservices
 - OAuth connections to slack, google and microsoft messaging platforms.
 - Linguistic analysis of staff communications to guide stress management.
 - Running in google cloud, with docker containers, pub-sub, serverless functions.
@@ -104,7 +106,7 @@ This system was kept online 24/7 for over a decade, and was used by dozens of co
 	- Microsoft Graph 
 	- Slack - with custom slackbot functionality.
 -  Unified event logging console 
-	-  detailed capture and tracking of system events, errors, statuses from anywhere in the codebase.
+	- detailed capture and tracking of system events, errors, statuses from anywhere in the codebase.
 	- captures system activity from diverse cloud-based microservices and containers into a centralised web-based system log.
 
 ---
@@ -112,10 +114,13 @@ This system was kept online 24/7 for over a decade, and was used by dozens of co
 > Howsafe - Kiosk OS
 > 
 - Howsafe is a WHS consultancy that manages large industrial clients up and down the east coast states. 
-- I was brought in to rescue a gateway kiosk project that had been left in an unfinished state after 18 months of development.   I was told it only needed “a bit of a fix” - what they really had was an electron-based stand-alone prototype with no network layer.    
-- I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   A look-alike prototype of it was available in the first week, which was used by an online team to develop the concept and test the result.
+- I was brought in to rescue a gateway kiosk project that had been left in an unfinished state after 18 months of development.
+	- I was told it only needed “a bit of a fix” - what they really had was an electron-based stand-alone prototype with no network layer.    
+- I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
+	- A look-alike prototype of it was available in the first week, which was used by an online team to develop the concept and test the result.
 - Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC,
-running a custom local server.   It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
+running a custom local server.   
+	- It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
 - Its fun to build physical devices.   I’d be interested in  doing more work that ties together sensor platforms, robotics and IOT.
 
 --- 
@@ -129,7 +134,7 @@ IIS, perl, SQL, javascript
 ---
 
 >Australian Wine Selectors | Coder Analyst | 2002-2003
-IIS, perl, SQL, javascript
+	- IIS, perl, SQL, javascript
 - web design and administration
 - high quality web content ported directly from AWS magazine publishers.
 - online subscription and events management systems
@@ -138,11 +143,11 @@ IIS, perl, SQL, javascript
 ---
 
 >Aljan Internet | Operations Manager, Sysadmin | 2001-2002
-unix, perl, cisco routers, SQL, apache
+	- unix, perl, cisco routers, SQL, apache
 - Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
 ---
 >Northpower | Origin Energy | Coder Analyst  | 1997-2000
-SQL, pascal, C++, Delphi, Oracle, unix
+	- SQL, pascal, C++, Delphi, Oracle, unix
 - Northpower was formed from the merger of nine large councils and their electricity infrastructure into a single energy company covering most of regional NSW. I was assigned to the stores project, and then promoted to manage, conversion of the stores / material management system from a vt-100 terminal system into a modern GUI.
 - The project had stalled, as the vendor’s GUI system proved incapable of managing concurrent transactions. Each council had its own stores systems of thousands of stock items that needed to be rationalised into a single companywide system. Stores depots were often in remote locations operating over unreliable ADSL copper, and the chosen platform struggled even on a LAN connection. Staff were becoming sceptical that a working system was even possible.
 - I developed a radically simpler database client that did not require record locking -  it was robust enough to work at remote store locations over intermittent network connections.   This client/server model became the standard client model for other teams, and the overall conversion resulted in a system that turned nine electricity providers into one statewide provider.
