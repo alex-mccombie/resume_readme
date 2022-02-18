@@ -7,9 +7,11 @@ Available 19/2/2022.
 > mobile: 0410 421 362
 > region: Maitland, Newcastle, NSW
 
-Values
+- My Values
 	- **Uptime** :  I know exactly how online my system are, and upgrade them past 100%
+
 	- **Signal to noise** : I am able to filter real world noise and focus on what is important.
+
 	- **Machine Learning** : I observe and record all available data to reveal reality.
 	
 	* **Turing tested** - In an environment of video meetings, I can pass as a human.
