@@ -35,16 +35,16 @@
 		- I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
 
 - Tuned in
-	- Remote work also means I get to choose my soundtrack.  
-	- 	Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
-	- Visualising software takes practice and the right tunes.  Once you can see it, you can change it.
+	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
+		- You need to be able to see it to change it.   Visualising software takes focused practice, and the right tunes.  
+- 	- Remote work means I get to choose my soundtrack.  
 		- I have specific tracks (links below) I use to get into a coding state of mind so I can see the connections.   
 	
 - Performance coding
 	- Coding in the cloud age has become a performance art.
 		- As a coder, I am always aware of my audience.   They are going to experience my work, and the aim is to code something they will love.   
-	- When there is an audience with an urgent problem, the solution is sometimes just a short code sprint away.   
-	- 	Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
+	- Large audiences with urgent problems are a great motivator.   Sometimes the solution just a short code sprint away.   
+		- Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
 
 - User friendly
 	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
