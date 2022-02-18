@@ -111,21 +111,20 @@ Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Securit
 
 ---
     
-> Howsafe - Kiosk OS
-> 
-- Howsafe is a WHS consultancy that works with industrial clients across Australia. 
-- I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
-	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
-- I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
-	- After a week I had a look-alike prototype of the new kiosk available, which was used by the online review team to test the concept and develop the final application.
-- Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.   
-	- It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
-- Its fun to build physical devices.   I’d be interested in  doing more work that ties together sensor platforms, robotics and IOT.
+Howsafe - Kiosk OS
+> - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
+> - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
+> 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
+> - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
+> 	- After a week I had a look-alike prototype of the new kiosk available, which was used by the online review team to test the concept and develop the final application.
+> - Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.   
+> 	- It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
+> - Its fun to build physical devices.   I’d be interested in  doing more work that ties together sensor platforms, robotics and IOT.
 
 --- 
 
 Telstra | Coder Analyst | 2003-2006
-- IIS, perl, SQL, javascript
+> - IIS, perl, SQL, javascript
 > - Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
 > - Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
 > - Proved that incentive wages successfully motivate increased productivity and throughput.
