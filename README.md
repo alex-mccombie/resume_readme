@@ -1,12 +1,12 @@
 # Resume: Alex McCombie - Coder Analyst
-```
-name: Alex McCombie
-role: Systems Analyst Coder
-email: alex.mccombie@lspacelabs.com
-mobile: 0410 421 362
-region: Maitland, Newcastle, NSW
-available: 19/2/2022
-```
+
+> name: Alex McCombie
+> role: Systems Analyst Coder
+> email: alex.mccombie@lspacelabs.com
+> mobile: 0410 421 362
+> region: Maitland, Newcastle, NSW
+> available: 19/2/2022
+
 
 - My Values
 	- **Uptime** :  I know exactly how online my system are, and upgrade them past 100%
@@ -206,16 +206,18 @@ Brambles Industrial Services | Business Analyst / Coder | 1992-1993 |
 Appendix: Read/Write Coding Style.
 
 This was a top-rated solution to a problem on codewars.com:
-```
+
+```javascript
 function DUPLICATE_COUNT(text){return [...new Set([...text.toLowerCase()].sort().filter((c,p,a)=>c===a[p-1]))].length}
 ```
+
 Clever like this allows you to write powerful one-liners.
 Avoid them - they are so clever they event defy understanding.     
 I’m impressed at the sheer work that one line can do, but I would refer to it as “write-only” code - because even if you can write it, no-one else can read it.  
 Apparently this one-liner is "a function that counts duplicate characters in a string."   
 
 My preferred solution would be more like:
-```
+```javascript
 function DUPLICATE_COUNT(text){
 // Return the number of repeated characters in the input string
 	let CharCounts={};
@@ -238,8 +240,10 @@ function DUPLICATE_COUNT(text){
 - My version actually runs a bit faster too, because it's simple and optimises well.
 
 <div style="page-break-after: always"></div>
+
 ---
-Appendix: VR Coding Experiments.
+
+### Appendix: VR Coding Experiments.
 
 Here’s a collection of VR prototypes I have built as experiments, just to see what the technology allows.  This is not unreal or unity or steam - these interactive 3D spaces are just webGL running in chrome.   Under the hood it is javascript controlling the GPU.    This is interactive GPU powered 3D spaces loaded on demand.    All built from raw code and html and three.js.
 
