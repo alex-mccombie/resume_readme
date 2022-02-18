@@ -2,9 +2,13 @@
 Available 19/2/2022.
 
 > resume: Alex McCombie
+ 
 > role: Systems Analyst Coder
+
 > email: alex.mccombie@lspacelabs.com
+
 > mobile: 0410 421 362
+
 > region: Maitland, Newcastle, NSW
 
 - My Values
@@ -14,13 +18,13 @@ Available 19/2/2022.
 
 	- **Machine Learning** : I observe and record all available data to reveal reality.
 	
-	* **Turing tested** - In an environment of video meetings, I can pass as a human.
+	- **Turing tested** - In an environment of video meetings, I can pass as a human.
 	
-	* **Remote access** - I work better remotely. The proof is in the code I post.
+	- **Remote access** - I work better remotely. The proof is in the code I post.
 	
-	* **Broadcasting** - I care about growing userbases.  The more the merrier!
+	- **Broadcasting** - I care about growing userbases.  The more the merrier!
 	
-	* **Client driven** - I am willing to bug people in IT so that customers get a seamless experience.
+	- **Client driven** - I am willing to bug people in IT so that customers get a seamless experience.
 
 - Experience
 	- I’ve written so many lines of code.  If someone explains some new data or answer they are trying to find, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  I like to code.
@@ -46,31 +50,35 @@ Available 19/2/2022.
 	- They are going to experience my work, and the aim is to code something they will love.   Coding in the cloud age has become a performance art.   When there is an audience with an urgent problem, the solution is sometimes just a short code sprint away.   Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
 
 - User Friendly
-	- I also understand that most people don’t really give a flying _fig_ about software.
-	- They just want the software to work so they can get on with their day.   
+	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
 	- I speak fluent computerese as a second language, but I try to avoid speaking it around humans.
-	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years, but you can safely assume I’ve worked with it, and I am always interested in conquering more. 
+	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.  But you can safely assume I’ve worked with it.  Because I am always interested in conquering another platform. 
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
 
+---
 > Coding soundtrack:
-> Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8 
-] (https://www.youtube.com/watch?v=vSzCv4gozm8) Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
+
+> Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8] (https://www.youtube.com/watch?v=vSzCv4gozm8) 
+
+> Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA](https://www.youtube.com/watch?v=_398X4JxakA)
 
 <div style="page-break-after: always"></div>
 ---
 
-## Work history
-- My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
+## My Story
+- My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
+	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
 - I’ve written code solving a wide range of business problems for some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
-- I've written for any platform I can get my hands on - C++,  assembly code, node, mobile phones, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
-- Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.    I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
+	- I've written for any platform I can get my hands on - C++,  assembly code, node, mobile phones, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
+- Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
+	- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
 - Our civilization is being gradually automated - coding is no longer just an abstract business function - the future is made of software.  
 --- 
-## Work History
-### launchpad labs - 2007-2021	- Founder, Lead designer, Analyst Coder 
+
+> launchpad labs - 2007-2021	- Founder, Lead designer, Analyst Coder 
 Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
-* launchpad SaaS
-	* Independent provider of SaaS CRM, rostering and HR systems to the security industry
+* Independent provider of SaaS CRM, rostering and HR systems to the security industry
+* launchpad SaaS platform
 	* Innovative early adopter of dynamic web interfaces - node.js platform providing web access to a wide range of security related administrative functions.
 	- A simple unified web application providing: 
 		- automatic licence checking, rostering, payroll
@@ -84,10 +92,13 @@ This system was kept online 24/7 for over a decade, and was used by dozens of co
  
  ---
  
-### Pioneera - Networked Sentiment Analysis
+> Pioneera - Networked Sentiment Analysis
 - Pioneera is dedicated to preventing burnout and stress in the workplace.
-- A networked application that connects to slack, google and microsoft messaging platforms, and performs linguistic analysis on staff communications to assess stress levels.
-- Built in google cloud, with docker containers, pub-sub, serverless functions, with  github actions managing CI/CD
+- Working on a networked system of applications, serverless functions and microservices
+- OAuth connections to slack, google and microsoft messaging platforms.
+- Linguistic analysis of staff communications to guide stress management.
+- Running in google cloud, with docker containers, pub-sub, serverless functions.
+- CI/CD managed through github actions
 - Bulk polling of external messaging systems:
 	- google workspace 
 	- Microsoft Graph 
@@ -98,7 +109,8 @@ This system was kept online 24/7 for over a decade, and was used by dozens of co
 
 ---
     
-### Howsafe - Kiosk OS
+> Howsafe - Kiosk OS
+> 
 - Howsafe is a WHS consultancy that manages large industrial clients up and down the east coast states. 
 - I was brought in to rescue a gateway kiosk project that had been left in an unfinished state after 18 months of development.   I was told it only needed “a bit of a fix” - what they really had was an electron-based stand-alone prototype with no network layer.    
 - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   A look-alike prototype of it was available in the first week, which was used by an online team to develop the concept and test the result.
@@ -122,7 +134,9 @@ IIS, perl, SQL, javascript
 - high quality web content ported directly from AWS magazine publishers.
 - online subscription and events management systems
 - call centre CRM  systems.
+
 ---
+
 >Aljan Internet | Operations Manager, Sysadmin | 2001-2002
 unix, perl, cisco routers, SQL, apache
 - Rescue administrator of an overloaded failing ISP.   I organised staff acquisition and a technical rebuild of the service, and coded the custom quality control and monitoring software.
