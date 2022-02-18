@@ -9,18 +9,18 @@
 | available | 19/2/2022 |
 
 
-- My favourite things:
+- Features:
 	- **Remotely accessible** - I work better remotely. The proof is in the code I post.
 		- **Broadcast Ready** - I care about growing userbases.  The more the merrier!
-	- **Uptime** :  I know exactly how online my system are, and upgrade them to hit 100% uptime.
-		- **Signal from noise** : I am able to filter real world noise and focus on what is important.
-	- **Machine Learning** : I observe and record all available data to reveal reality.
-		- **Turing tested** - In an environment of video meetings, I can often pass as a human.
-	- **User friendly** - I am willing to bug people in IT if required to send a seamless user experience.
+	- **Networked and Connected** :  I know exactly how online my system are, and upgrade them to hit 100% uptime.
+		- **Noise reduction** : I am able to filter noisy real world data and focus on what is important.
+	- **Machine Learned** : My machines observe and record all available data for detailled analysis.
+		- **User friendly** - I am willing to bug people in IT if required to send a seamless user experience.
+	- **Turing tested** - In an environment of video meetings, I can almost always pass as a human.
 
 - Experience
-	- I’ve written so many lines of code.  If someone explains some new data or answer they are trying to find, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  I like to code.
- 	- I am really easy-going about everything except software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
+	- I’ve written so much code.  If someone explains some new data or answer they need, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  I like to code.
+ 	- I am really easy-going about everything _except_ software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
 
 - Working remotely
 	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
