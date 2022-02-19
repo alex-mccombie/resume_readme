@@ -17,11 +17,11 @@
 		- **User friendly** - I am willing to bug people in IT - if required - to deliver seamless user experiences.
 	- **Turing tested** - In an environment of video meetings, I can almost always pass as a human.
 
-- Experience
+- Fully Tested
 	- I’ve written so much code.  If someone explains some new data or answer they need, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  It doesn't take much to get me coding.
  	- I am really easy-going about everything _except_ software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
 
-- Works remotely
+- Remotely Accessible
 	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
 	- I like meetings that involve a lot of screen sharing of working prototypes and solutions.
 	- I am up for online pair programming.   
@@ -30,7 +30,7 @@
 	- Give me my login details, and I am ready to code.
 	- I will create multiple prototypes to spark further design discussions.
 	- I can thrive in any role where I am judged by my code. 
-	- I already have my own a sweet development rig.
+	- I already have my own sweet development rig.
 
 - Mission oriented
 	- Solving human problems is the purpose of all business and technology.  
