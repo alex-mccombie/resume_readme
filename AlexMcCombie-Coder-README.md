@@ -178,15 +178,15 @@
 
 ## References
 
-> - Mark Howe - CEO, Howsafe PLC
-> 	- launchpad client, 2021
-> 	- [mark@howsafe.com.au](mailto:mark@howsafe.com.au)
-> 	- 0418 465 118
-
 > - Larry Clayton - CEO, SecurityWorx
 > 	- launchpad client, 2011 to 2020
 > 	- [larry@securityworx.com.au](mailto:larry@securityworx.com.au)
 > 	- 0412 434 554
+
+> - Mark Howe - CEO, Howsafe PLC
+> 	- launchpad client, 2021
+> 	- [mark@howsafe.com.au](mailto:mark@howsafe.com.au)
+> 	- 0418 465 118
 
 > - Tony Daou - CEO, ISec
 > 	- launchpad client, 2008 to 2018
@@ -199,7 +199,7 @@
 > 	- (02) 4921 6462
 
 > - Rob Lavell - CIO, Australian Wine Selectors
-> 	- Manager of IT development of website.
+> 	- Managed the delivery of a print-quality website, and CRM services.
 > 	- (02) 4946 9242
 
 
