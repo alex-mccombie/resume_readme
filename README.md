@@ -25,15 +25,17 @@
 	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
 	- I like meetings that involve a lot of screen sharing of working prototypes and solutions.
 	- I am up for online pair programming.   
-	- A good first step is to create a shared prototype to spark further design discussions.
-	- A coders work can be judged from anywhere.
-	- I can thrive in any role where I am judged by my code.
+
+- Fast startup
+	- Give me my login details, and I am ready to code.
+	- I will create multiple prototypes to spark further design discussions.
+		- I can thrive in any role where I am judged by my code. 
+	- I already have my own a sweet development rig.
 
 - Mission oriented
 	- Solving human problems is the purpose of all business and technology.  
 		- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   
-	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  
-		- I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
+	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
 
 - Tuned in
 	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
