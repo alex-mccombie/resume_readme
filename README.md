@@ -29,13 +29,13 @@
 - Fast startup
 	- Give me my login details, and I am ready to code.
 	- I will create multiple prototypes to spark further design discussions.
-		- I can thrive in any role where I am judged by my code. 
+	- I can thrive in any role where I am judged by my code. 
 	- I already have my own a sweet development rig.
 
 - Mission oriented
 	- Solving human problems is the purpose of all business and technology.  
 		- Sustainable businesses grow by solving a problem, and adding to collective human happiness.   
-	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  I always aim to over-perform - so I want to over-perform in an ethical industry that the world really needs.   
+	- I love innovation, and innovative industries - renewable energy, machine learning,  graphics and VR, gaming are all fields I can really throw myself at.  I always aim to over-perform - but only in an ethical industry that the world really needs.   
 
 - Tuned in
 	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
@@ -51,9 +51,8 @@
 
 - User friendly
 	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
-		- I speak fluent computerese as a second language, but I try to avoid speaking it around humans.
-	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.
-		- But you can safely assume I’ve worked with it, and I am always interested in conquering another. 
+		- I speak fluent computerese as a second language, though I prefer to speak english around humans.
+	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.  You can safely assume I’ve worked with it, and I am always interested in conquering another. 
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
 
 ---
@@ -68,11 +67,11 @@
 
 ## Change History
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
-	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I would be designing software on the back pages of school notepads.   
-- I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all parts of the world I can control with software.   
-- Running my own saas operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
+	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I was designing software on the back pages of school notepads for when I could get back to the keyboard.   
+- I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all software-controllable parts of the world.   
+- Running my own SaaS operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
-- I want to be part of a team of experts where I can specialise in creating code, so I get to flex my skills.
+- I'd like being part of a team of code creators, so I get to steal techniques and flex my skills with people who are good judges of software.
 
 --- 
 
@@ -80,7 +79,8 @@
 > Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 > * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 > * launchpad SaaS platform
-> 	* Innovative early adopter of dynamic web interfaces - node.js platform providing web access to a wide range of security related administrative functions.
+> 	* Innovative early adopter of dynamic web interfaces 
+> 	- Single platform access to a wide range of security related administrative and staffing functions.
 > 	- A simple unified web application providing: 
 > 		- automatic licence checking, rostering, payroll
 > 		- automated two-way sms staff comms
@@ -88,33 +88,33 @@
 > 		- data analysis integrations with excel and MYOB
 > 		- licence scans. photo ID, licence renewal management 
 > 		- KPI tracking, project management.
-> 	- This system was solidly online 24/7 for over a decade
+> 	- This system was solidly online 24/7 for over a 12 years.
 > 	- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   
 > 	- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
  
  ---
  
 #### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
-> - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.
-> - I worked on refactoring a networked system of applications, serverless functions and microservices.
-> - Required familiarity to OAuth, slack API, google messaging API and microsoft graph.
-> - Linguistic analysis of staff communications to guide stress management.
-> - Running in google cloud, with docker containers, pub-sub, serverless functions.
-> - CI/CD managed through github actions
-> - Bulk polling of external messaging systems:
-> 	- google workspace 
-> 	- Microsoft Graph 
-> 	- Slack - with custom slackbot functionality.
-> -  Unified event logging console 
-> 	- detailed capture and tracking of system events, errors, statuses from anywhere in the codebase.
-> 	- captures system activity from diverse cloud-based microservices and containers into a centralised web-based system log.
+> - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.   They source staff messaging from slack, microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress.
+> - Their system connects to a wide collection of microservices.   Many microservice are used to connect to external messaging vendors.
+> - I created a cloud-based console that make centralised debugging and logging simple across the codebase.
+> - What was previously streamed to many different consoles via console.log(), became an orderly web-served database of recent system events.
+> - Each event carries a payload that shows the context of the code at the point of the original log call.
+> - This is a detailed and invaluable resource for anyone working on the code in the future.
+> - Their application runs in google cloud, with docker containers, pub-sub calls mapped and serverless functions.
+> - All CI/CD managed through github actions.  
+> Messaging systems - google, microsoft and slack
+> - Bulk polling of a multi-platform messaging stream
+> - Unified event logging console 
+> 	- Allows the logging of system events, errors, debug and status reports from across a multi-platformed codebase.
+> 	- captures system activity from diverse cloud-based microservices and containers into a centralised web-accessible system log.
 
 ---
     
 #### Howsafe | Kiosk OS | 2021
 > - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
 > - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
-> 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was an electron-based stand-alone prototype with no network layer.
+> 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity.
 > - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
 > 	- After a week I had a look-alike prototype of the new kiosk available, which was used by the online review team to test the concept and develop the final application.
 > - Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.   
