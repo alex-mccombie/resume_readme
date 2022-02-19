@@ -280,19 +280,19 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 
 ```mermaid
   graph LR;
-      Planning(Round Rect)-->code(Round Rect);
+      Planning(Planning)-->code(code);
       Planning-->Analysis;
-      Analysis(Round Rect)-->code;
+      Analysis(Analysis)-->code;
       Analysis-->Design;
-      Design(Round Rect)-->code;
+      Design(Design)-->code;
       Design-->Development;
-      Development(Round Rect)-->code;
+      Development(Development)-->code;
       Development-->Testing;
-      Testing(Round Rect)-->code;
+      Testing(Testing)-->code;
       Testing-->Implementation;
-      Implementation(Round Rect)-->code;
+      Implementation(Implementation)-->code;
       Implementation-->Maintenance;
-      Maintenance(Round Rect)-->code;
+      Maintenance(Maintenance)-->code;
       Maintenance-->Planning;
 ```
 
