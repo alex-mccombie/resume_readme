@@ -43,7 +43,7 @@
 - 	- Remote work means I get to choose my soundtrack.  
 		- I have specific tracks (links below) I use to get into a coding state of mind so I can see the connections.   
 	
-- Performance coding
+- High performance
 	- Coding in the cloud age has become a performance art.
 		- As a coder, I am always aware of my audience.   They are going to experience my work, and the aim is to code something they will love.   
 	- Large audiences with urgent problems are a great motivator.   Sometimes the solution just a short code sprint away.   
@@ -269,4 +269,13 @@ Here’s a collection of VR prototypes I have built as experiments, just to see 
 [https://www.youtube.com/watch?v=v59SSv8HeFs](https://www.youtube.com/watch?v=v59SSv8HeFs)
 
 This is just visual proof I can code.   I also do robust lightning quick vanilla databases, including all the database infrastructure behind these demos.   If your mission involves computation, I am confident I can contribute.
+
+
+---
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
 
