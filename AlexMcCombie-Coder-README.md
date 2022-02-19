@@ -283,7 +283,7 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
   	classDef BLUE fill:#9f6,stroke:#333,stoke-width:2px;
 	class ro BLUE
       ro(Planning)-->code((CODE));
-      Planning-->Analysis;
+      ro(Planning)-->Analysis;
       Analysis(Analysis)-->code;
       Analysis-->Design;
       Design(Design)-->code;
