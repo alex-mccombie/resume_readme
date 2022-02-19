@@ -275,9 +275,12 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 
 ```mermaid
   graph TD;
-      Problem-->Prototype;
-      Prototype-->Feedback;
-      Feedback-->Coding;
-      Coding-->Problem;
+      Planning-->Analysis;
+      Analysis-->Design;
+      Design-->Development;
+      Development-->Testing;
+      Testing-->Implementation;
+      Implementation-->Maintenance;
+      Maintenance-->Planning;
 ```
 
