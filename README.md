@@ -284,3 +284,8 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
       Maintenance-->Planning;
 ```
 
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+    
