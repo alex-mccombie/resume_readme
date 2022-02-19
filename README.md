@@ -275,9 +275,9 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      Problem-->Prototype;
+      Prototype-->Freedback;
+      Feedback-->Coding;
+      Coding-->Problem;
 ```
 
