@@ -13,7 +13,7 @@
 		- **Broadcast Ready** - I care about growing userbases.  The more the merrier!
 	- **Networked and Connected** :  I know exactly how online my system are, and upgrade them to hit 100% uptime.
 		- **Noise reduction** : I am able to filter noisy real world data and focus on what is important.
-	- **Machine Learned** : My machines observe and record all available data for detailled analysis.
+	- **Machine Learning** : My machines acquire data and configurations, and just get smarter over time.
 		- **User friendly** - I am willing to bug people in IT - if required - to deliver seamless user experiences.
 	- **Turing tested** - In an environment of video meetings, I can almost always pass as a human.
 
