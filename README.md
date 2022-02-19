@@ -12,7 +12,10 @@
 erDiagram
     REMOTE_ACCESS ||--o{ BROADCAST_READY : places
     BROADCAST_READY ||--|{ NETWORKED : contains
-    NETWORKED }|..|{ DELIVERY-ADDRESS : uses
+    NETWORKED }|..|{ MACHINE_LEARNING : uses
+    FOCUS ||--o{ BROADCAST_READY : places
+    USER_FRIENDLY ||--|{ NETWORKED : contains
+    TURING_COMPLETE }|..|{ REMOTE_ACCESS : uses
 ```    
 
 - Features:
