@@ -282,6 +282,9 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
       Testing-->Implementation;
       Implementation-->Maintenance;
       Maintenance-->Planning;
+      Planning-->code;
+      Analysis-->code;
+      Design-->code;
 ```
 
 ```mermaid
