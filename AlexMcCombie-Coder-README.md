@@ -16,7 +16,7 @@
 		- **User friendly** - I am willing to bug people in IT - if required - to deliver seamless user experiences.
 	- **Turing tested** - In an environment of video meetings, I can almost always pass as a human.
 
-- Fully Tested
+- Tried and Tested
 	- I’ve written so much code.  If someone explains some new data or answer they need, my mind immediately starts devising a digital creation to solve the problem, and how I can best explain this to the next computer I meet.  It doesn't take much to get me coding.
  	- I am really easy-going about everything _except_ software.  I want to be able to create useful applications for millions of people - I want it to work first time every time - I want it to be simple and beautiful.   I am a futurist - I want technology to live up to its promise of becoming indistinguishable from magic - which will require beautifully designed software.
 
@@ -280,6 +280,8 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 
 ```mermaid
   graph LR;
+  	classDef BLUE fill:#9f6,stroke:#333,stoke-width:2px;
+	class rs BLUE
       Planning(Planning)-->code((CODE));
       Planning-->Analysis;
       Analysis(Analysis)-->code;
