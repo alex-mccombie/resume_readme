@@ -1,4 +1,4 @@
-# Resume of Alex McCombie : Coder Analyst.
+# Resume of Alex McCombie : Coder
 
 | - | - |
 | ---- | ----|
@@ -197,6 +197,12 @@
 > 	- Colleague, fellow UON student and friend of long standing.
 > 	- [jack.greenrich@newcastle.edu.au](mailto:jack.greenrich@newcastle.edu.au)
 > 	- (02) 4921 6462
+
+> - Rob Lavell - CIO, Australian Wine Selectors
+> 	- Manager of IT development of website.
+> 	- (02) 4946 9242
+
+
 
 
 
