@@ -24,7 +24,8 @@
 - Works remotely
 	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
 	- I like meetings that involve a lot of screen sharing of working prototypes and solutions.
-	- I am up for online pair programming.
+	- I am up for online pair programming.   
+	- A good first step is to create a shared prototype to spark further design discussions.
 	- A coders work can be judged from anywhere.
 	- I can thrive in any role where I am judged by my code.
 
