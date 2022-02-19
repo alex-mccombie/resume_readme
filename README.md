@@ -13,6 +13,7 @@ erDiagram
     REMOTE_ACCESS ||--o{ BROADCAST_READY : places
     BROADCAST_READY ||--|{ NETWORKED : contains
     NETWORKED }|..|{ MACHINE_LEARNING : uses
+    MACHINE_LEARNING }|..|{ USER_FRIENDLY : uses
     FOCUS ||--o{ BROADCAST_READY : places
     USER_FRIENDLY ||--|{ NETWORKED : contains
     TURING_COMPLETE }|..|{ REMOTE_ACCESS : uses
