@@ -275,13 +275,6 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 
 ```mermaid
   graph TD;
-      Planning-->Analysis;
-      Analysis-->Design;
-      Design-->Development;
-      Development-->Testing;
-      Testing-->Implementation;
-      Implementation-->Maintenance;
-      Maintenance-->Planning;
       Planning-->code;
       Analysis-->code;
       Design-->code;
@@ -289,6 +282,13 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
       Testing-->code;
       Implementation-->code;
       Maintenance-->code;
+      Planning-->Analysis;
+      Analysis-->Design;
+      Design-->Development;
+      Development-->Testing;
+      Testing-->Implementation;
+      Implementation-->Maintenance;
+      Maintenance-->Planning;
 ```
 
 ```mermaid
