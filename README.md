@@ -8,6 +8,13 @@
 | available | 19/2/2022 |
 
 
+```mermaid
+erDiagram
+    REMOTE_ACCESS ||--o{ BROADCAST_READY : places
+    BROADCAST_READY ||--|{ NETWORKED : contains
+    NETWORKED }|..|{ DELIVERY-ADDRESS : uses
+```    
+
 - Features:
 	- **Remotely accessible** - I work better remotely. The proof is in the code I post.
 		- **Broadcast Ready** - I care about growing userbases.  The more the merrier!
@@ -291,9 +298,3 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
       Maintenance-->Planning;
 ```
 
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```    
