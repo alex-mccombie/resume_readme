@@ -49,7 +49,7 @@
 		- Wherever possible, I will collapse deadlines with a 10x result using a shortcut no-one else saw.
 
 - User friendly
-	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   
+	- I also understand that most people don’t really give a flying _fig_ about software.   They just want the software to work so they can get on with their day.   I  build software that does the job and gets out of the way.
 		- I speak fluent computerese as a second language, though I prefer to speak english around humans.
 	- I don’t want to fill this resume with a list of every tech that has been released in the last 30 years.  You can safely assume I’ve probably worked with it, and I am always interested in conquering another. 
 	- The most magical feature of software is not in the details - it is hiding the details and making life simpler for real people.
@@ -279,7 +279,7 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 ---
 
 ```mermaid
-  graph TD;
+  graph LR;
       Planning-->code;
       Planning-->Analysis;
       Analysis-->code;
