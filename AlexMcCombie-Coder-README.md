@@ -40,7 +40,7 @@
 	- Software is more than the code itself - it’s a delicate web of implied connections created by the shape of the code.   
 		- You need to be able to see it to change it.   Visualising software takes focused practice, and the right tunes.  
 - 	- Remote work means I get to choose my soundtrack.  
-		- I have specific tracks (links below) I use to get into a coding state of mind so I can see the connections.   
+		- I have specific tracks (links below) I use to promote a coding state of mind so I can see the connections.   This is a tried and tested soundtrack of a lot of highly creative coding marathons over the years. 
 	
 - High performance
 	- Coding in the cloud age has become a performance art.
