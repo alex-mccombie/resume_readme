@@ -74,7 +74,7 @@
 - I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all software-controllable parts of the world.   
 - Running my own SaaS operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
-- I'd like being part of a team of code creators, so I get to steal techniques and flex my skills with people who are good judges of software.
+- I love being part of a team of code creators, stealing techniques and flexing my skills with people who are good judges of software.
 
 --- 
 
