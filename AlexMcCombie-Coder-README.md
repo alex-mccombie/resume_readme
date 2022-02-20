@@ -276,7 +276,7 @@ This is just visual proof I can code.   I also do robust lightning quick vanilla
 ---
 
 ```mermaid
-  graph LR;
+  graph TD;
   	classDef BLUE fill:#9f6,stroke:#333,stoke-width:2px;
 	class code BLUE
       Planning(Planning)-->code((CODE));
