@@ -227,7 +227,7 @@ function DUPLICATE_COUNT(text){return [...new Set([...text.toLowerCase()].sort()
 ```
 
 Clever code tricks like this allow you to write powerful one-liners.
-They are so clever they event defy understanding.     Avoid them.
+They are so clever they basically defy understanding.   I avoid them.
 I would refer this as “write-only” code - even if you can write it, no-one else will be able to read it.  
 Hint - its "a function that counts duplicate characters in a string."   
 
