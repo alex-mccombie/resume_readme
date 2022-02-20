@@ -60,7 +60,7 @@
 > 	- Coding sprints - epicuros: [https://www.youtube.com/watch?v=vSzCv4gozm8]
 > 	- Design deep dives - Stellardrone: [https://www.youtube.com/watch?v=_398X4JxakA]
 
-<div style="page-break-after: always"></div>
+
 
 ---
 
@@ -173,7 +173,6 @@
 
 
 
-<div style="page-break-after: always"></div>
 ---
 
 ## References
@@ -212,7 +211,6 @@
 
 
 
-<div style="page-break-after: always"></div>
 
 ---
 
@@ -250,7 +248,6 @@ function DUPLICATE_COUNT(text){
 - Production code gets written once, but will need to be read many times.   Meaningful variable names allow the function to read like a flowchart.
 - My version actually runs a bit faster too, because it's simple and optimises well.
 
-<div style="page-break-after: always"></div>
 
 ---
 
