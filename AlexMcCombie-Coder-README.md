@@ -62,6 +62,10 @@
 
 
 
+
+
+
+
 ---
 
 ## Change History
@@ -249,6 +253,10 @@ function DUPLICATE_COUNT(text){
 - My version actually runs a bit faster too, because it's simple and optimises well.
 
 
+
+
+
+
 ---
 
 ### Appendix: VR Coding Experiments.
@@ -273,7 +281,18 @@ Here’s a collection of VR prototypes I have built as experiments, just to see 
 This is just visual proof I can code.   I also do robust lightning quick vanilla databases, including all the database infrastructure behind these demos.   If your mission involves computation, I am confident I can contribute.
 
 
+
+
+
+
+
 ---
+
+
+
+
+
+
 
 ```mermaid
   graph TD;
