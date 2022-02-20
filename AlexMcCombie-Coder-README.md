@@ -261,7 +261,7 @@ function DUPLICATE_COUNT(text){
 
 ### Appendix: VR Coding Experiments.
 
-Here’s a collection of VR prototypes I have built as experiments, just to see what the technology allows.  This is not unreal or unity or steam - these interactive 3D spaces are built in webGL - they are just webpages running in chrome.   Webpages - more like interactive GPU powered 3D metaverse VR spaces with true load-on-demand.    100% built from my raw code, and three.js.
+Here’s a collection of VR prototypes I have built as experiments, just to see what the technology allows.  This is not unreal or unity or steam - these interactive 3D spaces are built in webGL - they are just webpages running in chrome.   Webpages?! More like "Interactive GPU powered 3D metaverse VR spaces with true load-on-demand" !    100% built from my raw code, and three.js.
 
 >Multimedia Arts Space - Freely explore a virtual art gallery, with thousands of paintings, music, streamed video and interactive exhibits.
 > [https://www.youtube.com/watch?v=lN641qD_KMA](https://www.youtube.com/watch?v=lN641qD_KMA)
