@@ -23,7 +23,7 @@
 - Remotely Accessible
 	- Some people have difficulties with remote work.   Not me - that's where I do my best work.
 	- I like meetings that involve a lot of screen sharing of working prototypes and solutions.
-	- I am up for online pair programming.   
+	- I am up for online pair programming or competitive code sprints.   
 
 - Fast startup
 	- Give me my login details, and I am ready to code.
