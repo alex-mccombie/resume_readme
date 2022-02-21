@@ -71,7 +71,7 @@
 ## Change History
 - My father was a programmer for IBM.  He would bring home some of the latest tech for me to play with - including some of the first IBM PCs in the country.   
 	- I was fascinated with the idea that I could tell a computer to do something and it would *have to do it*.     When I couldn’t be at my computer, I was designing software on the back pages of school notepads for when I could get back to the keyboard.   
-- I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, cloud, containers - they are all software-controllable parts of the world.   
+- I'll write code for any platform I can get my hands on - C++,  assembly code, node, mobile phones, PLC's, kiosks, arduino, VR headsets, containers, cloud, serverless - they are all software-controllable parts of the world.   
 - Running my own SaaS operation and overseeing the whole process from start to finish has been an education - lots of freedom but also a lot of hats to wear.
 	- I’ve used software to solve the real world problems of some big clients:  Origin Energy |  BHP | Brambles | Telstra | KPMG
 - I love being part of a team of code creators, stealing techniques and flexing my skills with people who are good judges of software.
