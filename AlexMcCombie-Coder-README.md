@@ -91,7 +91,7 @@
 > 		- data analysis integrations with excel and MYOB
 > 		- licence scans. photo ID, licence renewal management 
 > 		- KPI tracking, project management.
-> 	- This system was solidly online 24/7 for over a 12 years.
+> 	- This system was solidly online 24/7 for 12 years.
 > 	- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.   
 > 	- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendour in the Grass and Mardigras.
  
