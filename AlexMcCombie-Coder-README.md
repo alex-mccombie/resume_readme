@@ -99,11 +99,12 @@
  
 #### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
 > - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.   They source staff messaging from slack, microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress.
-> - Their system connects to a wide collection of microservices.   Many microservice are used to connect to external messaging vendors.
+> - Their system connects to a diverse population of microservices, pub-sub endpoint and serverless functions.
+> - Their messaging analysis sources content from a growing population of slack, microsoft and google message polling bots.
 > - I created a cloud-based console that make centralised debugging and logging simple across the codebase.
 > - What was previously streamed to many different consoles via console.log(), became an orderly web-served database of recent system events.
 > - Each event carries a payload that shows the context of the code at the point of the original log call.
-> - This is a detailed and invaluable resource for anyone working on the code in the future.
+> - This is a detailed and invaluable resource for anyone debugging or extending the code in the future.
 > - Their application runs in google cloud, with docker containers, pub-sub calls mapped and serverless functions.
 > - All CI/CD managed through github actions.  
 > Messaging systems - google, microsoft and slack
