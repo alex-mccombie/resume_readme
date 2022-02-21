@@ -218,7 +218,7 @@
 
 ---
 
-Appendix: Read/Write Coding Style.
+# Appendix: Writeable and Readable Coding Styles
 
 This was a top-rated solution to a problem on codewars.com:
 
