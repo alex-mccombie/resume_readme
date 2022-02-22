@@ -98,30 +98,18 @@ Devices: PCs, cloud servers, mobile devices, VR applications, PLC’s, drone and
 DevOps: 24/7 monitoring of network services. 
 
 Clients: I-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group 
-
-Independent provider of SaaS ERP, rostering and HR systems to the security industry 
-
-Innovative early adopter of dynamic web interfaces and live socket-connected clients. 
-
-Providing access to a wide range of security related administrative and staffing functions. 
-
-automatic license checking, rostering, payroll 
-
-automated two-way SMS staff comms 
-
-automated creation of print-quality PDF invoices, timesheets, pay slips 
-
-data analysis integrations with excel and MYOB 
-
-license scans. photo ID, license renewal management  
-
-KPI tracking, project management. 
-
-This system was solidly online 24/7 for 12 years.  
-
-Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.  
-
-Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendor in the Grass and Mardigras. 
+- Independent provider of SaaS ERP, rostering and HR systems to the security industry 
+- Innovative early adopter of dynamic web interfaces and live socket-connected clients. 
+- Providing access to a wide range of security related administrative and staffing functions. 
+	- automatic license checking, rostering, payroll 
+	- automated two-way SMS staff comms 
+	- automated creation of print-quality PDF invoices, timesheets, pay slips 
+	- data analysis integrations with excel and MYOB 
+	- license scans. photo ID, license renewal management  
+	- KPI tracking, project management. 
+- This system was solidly online 24/7 for 12 years.  
+- Used by dozens of companies to calculate millions of dollars of wages for thousands of staff.  
+- Provided logistics support for events such as the Big Day Out, the Grand Prix, Splendor in the Grass and Mardigras. 
 
  
  ---
