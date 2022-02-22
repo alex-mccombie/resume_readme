@@ -127,34 +127,37 @@ Provided logistics support for events such as the Big Day Out, the Grand Prix, S
  ---
  
 #### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
-- stack: Kubernetes, google cloud, AWS, azure, serverless functions, pub-sub endpoints, containerized microservices, feeding into a central node/react admin application.
-> client: Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.   They source staff messaging from slack, microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress.
-> - Their system connects to a diverse population of microservices, pub-sub endpoint and serverless functions.
-> - Their messaging analysis sources content from a growing population of slack, microsoft and google message polling bots.
-> - I created a cloud-based console that make centralised debugging and logging simple across the codebase.
-> - What was previously streamed to many different consoles via console.log(), became an orderly web-served database of recent system events.
-> - Each event carries a payload that shows the context of the code at the point of the original log call.
-> - This is a detailed and invaluable resource for anyone debugging or extending the code in the future.
-> - Their application runs in google cloud, with docker containers, pub-sub calls mapped and serverless functions.
-> - All CI/CD managed through github actions.  
-> Messaging systems - google, microsoft and slack
-> - Bulk polling of a multi-platform messaging stream
-> - Unified event logging console 
-> 	- Allows the logging of system events, errors, debug and status reports from across a multi-platformed codebase.
-> 	- captures system activity from diverse cloud-based microservices and containers into a centralised web-accessible system log.
+Stack: Kubernetes, google cloud, AWS, azure, serverless functions, pub-sub endpoints, containerized microservices, feeding into a central node/react admin application. 
 
+Client: Pioneera is dedicated to monitoring staff communications with the aim of helping preventing staff stress  and turnover.   They source staff messaging from slack, Microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress. 
+
+Pioneera’s system connect to a diverse population of microservices, pub-sub endpoint and serverless functions, that feed messaging data from their client companies, connecting to a growing population of slack, Microsoft and google messaging clients.   All CI/CD is managed through GitHub actions.   
+
+Deployed: Radar audit log 
+
+Node/react/mongo/GCP stack that makes centralized debugging and logging simple across their entire codebase. 
+
+I added infrastructure to allow the logging of system events, errors, debug and status reports from anywhere across a many-platformed codebase. 
+
+Their application logs status messages from code running in google cloud, azure, slack API, with docker containers, pub-sub calls mapped and serverless functions. 
+
+What was previously streamed to many different consoles via console.log(), became a single web page showing recent system events newest-first.  
+
+Each event carries a payload that shows the context of the code at the point of the original log call.   This data is hidden behind a more details field in the event overview - so you expand and hide the details of any particularly interesting event.     This will be a detailed and invaluable resource for anyone debugging or extending the code in the future. 
 ---
     
 #### Howsafe | Kiosk OS | 2021
-- stack: linux, node, mongodb, aws, google cloud, arduino, html5 video, AI facial recognition, fingerprint sensors
-> - client: Howsafe is a WHS consultancy that works with industrial clients across Australia. 
-> - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
-> 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity.
-> - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
-> 	- After a week I had a look-alike prototype of the new kiosk available, which was used by the online review team to test the concept and develop the final application.
-> - Each kiosk has a 42 inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.   
-> 	- It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point.    
-> - Its fun to build physical devices.   I’d be interested in  doing more work that ties together sensor platforms, robotics and IOT.
+Stack: linux, node, mongodb, aws, google cloud, arduino, html5 video, facial recognition, fingerprint sensors 
+
+Client: Howsafe is a WHS consultancy that works with industrial clients across Australia.  
+
+I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.   I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity. 
+
+I studied the prototype and consulted with previous developers - and I re-implemented it in node, mongodb and reactjs.    After a week I had a look-alike web prototype of the new kiosk available.   This got discussion going about how the final product would work.   The online review team helped to test the concept interface, and develop the final application. 
+
+Each kiosk has a 42-inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.    It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point that feeds data back into the AWS backend logging system.     
+
+I really enjoyed building physical devices.   I’d be interested in doing more work that ties together sensor platforms, robotics and IOT. 
 
 --- 
 
