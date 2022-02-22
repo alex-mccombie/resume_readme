@@ -82,20 +82,20 @@
 - stack: everything.    
 - launchpad is a lab where I test out every significant new coding technology as it becomes available.
 - All these technologies have been learned in production environments.
-Networked code -  javascript, node, npm, every stack you can imagine 
-Deployment– linux, docker, kubernetes, containers  
-Infrastructure – AWS, google cloud, azure, cloudflare 
-Databases - oracle, sql, mssql, postgres, mongodb  
-Cloud functions - serverless functions, pubsub, microservices  
-Comms-  Microsoft graph, google workspace, slack api  
-Web services – react.js, vue.js, angular, wordpress  
-Networking - socket.io, html5 live voice and video connections  
-Coding - vscode, CI/CD, github, stackoverflow 
-Analysis: graphql, microsoft BI, vizio 
-Controllers - C#, C++, arduino, python, php, APL, assembly  
-Graphics - WebGL, three.js, d3, babylonjs, A-frame, unity  
-Devices: PCs, cloud servers, mobile devices, VR applications, PLC’s, drone and robot controllers. 
-DevOps: 24/7 monitoring of network services. 
+- Networked code -  javascript, node, npm, every stack you can imagine 
+- Deployment– linux, docker, kubernetes, containers  
+- Infrastructure – AWS, google cloud, azure, cloudflare 
+- Databases - oracle, sql, mssql, postgres, mongodb  
+- Cloud functions - serverless functions, pubsub, microservices  
+- Comms-  Microsoft graph, google workspace, slack api  
+- Web services – react.js, vue.js, angular, wordpress  
+- Networking - socket.io, html5 live voice and video connections  
+- Coding - vscode, CI/CD, github, stackoverflow 
+- Analysis: graphql, microsoft BI, vizio 
+- Controllers - C#, C++, arduino, python, php, APL, assembly  
+- Graphics - WebGL, three.js, d3, babylonjs, A-frame, unity  
+- Devices: PCs, cloud servers, mobile devices, VR applications, PLC’s, drone and robot controllers. 
+- DevOps: 24/7 monitoring of network services. 
 
 Clients: I-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group 
 - Independent provider of SaaS ERP, rostering and HR systems to the security industry 
