@@ -79,6 +79,53 @@
 --- 
 
 #### launchpad labs | 2007-2021 | Founder, Analyst Coder 
+- stack: everything.    
+- launchpad is a lab where I test out every significant new coding technology as it becomes available.
+- All these technologies have been learned in production environments.
+	- javascript, node, socket.io, MEAN MERN Stacks
+	- C#, C++, python, php, APL, assembly
+	- react, vuejs, angular, wordpress 
+	- webGL - three.js, d3, babylonhs, A-frame, unity
+	- socket.io, html5 live voice and video connections 
+	- vscode, CI/CD, github
+	- Kubernetes, docker, container coding, 
+	- aws, azure, google cloud, cloudflare, slack api
+	- 
+	- linux os, windows .net
+	- oracle, sql, mssql, postgres, mongodb
+	- serverless functions, pub-sub, microservices
+	- graphql, microsoft BI, vizio
+	- 
+Apache
+Angular JS
+React.JS, html5, 
+C# Programming
+C++ Programming
+C# Programming
+Virtual Reality Development
+Unity Game Engine
+Unity 3D
+PHP Programming
+DevOps
+cisco routers
+ajax
+javascript
+java
+postgres
+babylonjs
+mssql
+sql
+three.js
+team leading
+nodejs
+microservices
+ASP.net
+redux
+angularjs
+reactjs
+vuejs
+
+
 > Clients:  i-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security | 4M Security | Southern Cross Group | Howsafe
 > * Independent provider of SaaS CRM, rostering and HR systems to the security industry
 > * launchpad SaaS platform
@@ -98,7 +145,8 @@
  ---
  
 #### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
-> - Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.   They source staff messaging from slack, microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress.
+- stack: Kubernetes, google cloud, AWS, azure, serverless functions, pub-sub endpoints, containerized microservices, feeding into a central node/react admin application.
+> client: Pioneera is dedicated to monitoring company communications to preventing burnout and stress in the workplace.   They source staff messaging from slack, microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress.
 > - Their system connects to a diverse population of microservices, pub-sub endpoint and serverless functions.
 > - Their messaging analysis sources content from a growing population of slack, microsoft and google message polling bots.
 > - I created a cloud-based console that make centralised debugging and logging simple across the codebase.
@@ -116,7 +164,8 @@
 ---
     
 #### Howsafe | Kiosk OS | 2021
-> - Howsafe is a WHS consultancy that works with industrial clients across Australia. 
+- stack: linux, node, mongodb, aws, google cloud, arduino, html5 video, AI facial recognition, fingerprint sensors
+> - client: Howsafe is a WHS consultancy that works with industrial clients across Australia. 
 > - I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.
 > 	- I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity.
 > - I pulled the prototype apart, and I re-implemented it in node, mongodb and reactjs.   
@@ -128,8 +177,9 @@
 --- 
 
 #### Telstra | Coder Analyst | 2003-2006
-> - IIS, perl, SQL, javascript
-> - Turned a complex national paper-based AWA incentive payroll system into a nationally accessible web resource. 
+> - stack: IIS, perl, SQL, javascript
+> - client: Telstra forms backbone of Australia's internet.   I was contracted to Telstra via KPMG.
+> - I took a complex national excel-based AWA incentive payroll system, and turned it into a nationally accessible IIS resource. 
 > - Achieved doubling of job clearance rates for a national workforce of 3300+ technicians.
 > - Proved that incentive wages successfully motivate increased productivity and throughput.
 
