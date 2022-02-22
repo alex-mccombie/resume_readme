@@ -115,37 +115,27 @@ Clients: I-sec | CVEM | ATMAAC | SecurityWorx | IPS | Maxcorp | Phantom Security
  ---
  
 #### Pioneera | Networked Sentiment Analysis | 2021-2022 | Analyst Coder
-Stack: Kubernetes, google cloud, AWS, azure, serverless functions, pub-sub endpoints, containerized microservices, feeding into a central node/react admin application. 
+- Stack: Kubernetes, google cloud, AWS, azure, serverless functions, pub-sub endpoints, containerized microservices, feeding into a central node/react admin application. 
+- Client: Pioneera is dedicated to monitoring staff communications with the aim of helping preventing staff stress  and turnover.   They source staff messaging from slack, Microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress. 
 
-Client: Pioneera is dedicated to monitoring staff communications with the aim of helping preventing staff stress  and turnover.   They source staff messaging from slack, Microsoft and google, and perform linguistic analysis of staff communications to guide companies in managing staff stress. 
+- Pioneera’s system connect to a diverse population of microservices, pub-sub endpoint and serverless functions, that feed messaging data from their client companies, connecting to a growing population of slack, Microsoft and google messaging clients.   All CI/CD is managed through GitHub actions.   
 
-Pioneera’s system connect to a diverse population of microservices, pub-sub endpoint and serverless functions, that feed messaging data from their client companies, connecting to a growing population of slack, Microsoft and google messaging clients.   All CI/CD is managed through GitHub actions.   
-
-Deployed: Radar audit log 
-
-Node/react/mongo/GCP stack that makes centralized debugging and logging simple across their entire codebase. 
-
-I added infrastructure to allow the logging of system events, errors, debug and status reports from anywhere across a many-platformed codebase. 
-
-Their application logs status messages from code running in google cloud, azure, slack API, with docker containers, pub-sub calls mapped and serverless functions. 
-
-What was previously streamed to many different consoles via console.log(), became a single web page showing recent system events newest-first.  
-
-Each event carries a payload that shows the context of the code at the point of the original log call.   This data is hidden behind a more details field in the event overview - so you expand and hide the details of any particularly interesting event.     This will be a detailed and invaluable resource for anyone debugging or extending the code in the future. 
+- Deployed: Radar audit log 
+	- Node/react/mongo/GCP stack that makes centralized debugging and logging simple across their entire codebase. 
+	- I added infrastructure to allow the logging of system events, errors, debug and status reports from anywhere across a many-platformed codebase. 
+	- Their application logs status messages from code running in google cloud, azure, slack API, with docker containers, pub-sub calls mapped and serverless functions. 
+	- What was previously streamed to many different consoles via console.log(), became a single web page showing recent system events newest-first.  
+	- Each event carries a payload that shows the context of the code at the point of the original log call.   This data is hidden behind a more details field in the event overview - so you expand and hide the details of any particularly interesting event.     This will be a detailed and invaluable resource for anyone debugging or extending the code in the future. 
+	
 ---
     
 #### Howsafe | Kiosk OS | 2021
-Stack: linux, node, mongodb, aws, google cloud, arduino, html5 video, facial recognition, fingerprint sensors 
-
-Client: Howsafe is a WHS consultancy that works with industrial clients across Australia.  
-
-I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.   I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity. 
-
-I studied the prototype and consulted with previous developers - and I re-implemented it in node, mongodb and reactjs.    After a week I had a look-alike web prototype of the new kiosk available.   This got discussion going about how the final product would work.   The online review team helped to test the concept interface, and develop the final application. 
-
-Each kiosk has a 42-inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.    It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point that feeds data back into the AWS backend logging system.     
-
-I really enjoyed building physical devices.   I’d be interested in doing more work that ties together sensor platforms, robotics and IOT. 
+- Stack: linux, node, mongodb, aws, google cloud, arduino, html5 video, facial recognition, fingerprint sensors 
+- Client: Howsafe is a WHS consultancy that works with industrial clients across Australia.  
+	- I was brought in to rescue a gateway kiosk project that had been abandoned by its developer.   I was told it only needed “a bit of a fix” - after 18 months of development, what they really had was a stand-alone prototype running on electron with no actual network connectivity. 
+	- I studied the prototype and consulted with previous developers - and I re-implemented it in node, mongodb and reactjs.    After a week I had a look-alike web prototype of the new kiosk available.   This got discussion going about how the final product would work.   The online review team helped to test the concept interface, and develop the final application. 
+	- Each kiosk has a 42-inch industrial touchscreen powered by an embedded Intel NUC, running a custom local server.    It acts as a sensor platform that hosts a video camera, a thermal sensor, a blood-alcohol tester, fingerprint reader, a sticker printer and a QR code scanner.  The software platform combines them all into a multi-factor site access point that feeds data back into the AWS backend logging system.     
+- I really enjoyed building physical devices.   I’d be interested in doing more work that ties together sensor platforms, robotics and IOT. 
 
 --- 
 
