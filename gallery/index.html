@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b0d12">
+<title>Launchpad Projects Gallery</title>
+<style>
+:root{color-scheme:dark;--bg:#0b0d12;--panel:#121722;--text:#f4f7fb;--muted:#a7b0c0;--line:#262d3a;--r:22px}
+*{box-sizing:border-box}html,body{margin:0;background:radial-gradient(circle at 10% 0,#1a2435 0,transparent 30%),var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}a{color:inherit}.wrap{width:min(1120px,100%);margin:auto;padding:22px 16px 72px}.hero{min-height:58vh;display:grid;align-content:center;gap:14px;padding:36px 0}.eyebrow{font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;color:#b8c7df}.hero h1{font-size:clamp(2.7rem,10vw,7.4rem);line-height:.88;letter-spacing:-.06em;margin:0;max-width:10ch}.hero p{max-width:650px;color:var(--muted);font-size:clamp(1rem,3vw,1.25rem);margin:0}.filters{display:flex;gap:8px;overflow:auto;padding:4px 0 20px;scrollbar-width:none;position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 72%,transparent)}button{border:1px solid var(--line);background:#10151e;color:var(--text);border-radius:999px;padding:10px 14px;white-space:nowrap;font:inherit}button.active{background:#eef3fb;color:#111722}.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}.card{grid-column:span 6;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:linear-gradient(160deg,#151b26,#0f131b);min-height:390px;display:flex;flex-direction:column;transform:translateZ(0)}.card.feature{grid-column:span 12;min-height:620px}.visual{position:relative;min-height:230px;overflow:hidden;background:#0b0f16}.feature .visual{min-height:410px}.meta{padding:18px;display:grid;gap:8px;margin-top:auto}.meta h2{margin:0;font-size:clamp(1.45rem,4vw,2.5rem);letter-spacing:-.035em}.meta p{margin:0;color:var(--muted)}.tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:4px}.tag{border:1px solid var(--line);border-radius:999px;padding:4px 9px;font-size:.75rem;color:#bac5d5}.links{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}.links a{border-bottom:1px solid #7788a4;text-decoration:none;padding-bottom:2px}.note{font-size:.8rem;color:#7f8b9d}.grid3d{position:absolute;inset:-40%;background-image:linear-gradient(rgba(190,215,255,.18) 1px,transparent 1px),linear-gradient(90deg,rgba(190,215,255,.18) 1px,transparent 1px);background-size:42px 42px;transform:perspective(500px) rotateX(64deg) translateY(20%);animation:drift 10s linear infinite}.orb{position:absolute;width:140px;height:140px;border:1px solid rgba(255,255,255,.5);border-radius:50%;left:50%;top:44%;transform:translate(-50%,-50%);box-shadow:0 0 80px rgba(170,207,255,.2),inset 0 0 35px rgba(255,255,255,.08)}@keyframes drift{to{background-position:42px 42px}}.logs{padding:22px;font:12px/1.55 ui-monospace,SFMono-Regular,Menlo,monospace;color:#a8bddc}.logs span{display:block;opacity:.8}.logs span:nth-child(3n){opacity:.35}.kiosk{position:absolute;inset:10% 22%;border:1px solid #46546c;border-radius:18px;background:linear-gradient(#121b29,#080b10);box-shadow:0 24px 60px #0008}.kiosk:before{content:"ACCESS READY";position:absolute;inset:15% 10% auto;border:1px solid #31405a;border-radius:10px;padding:22px;text-align:center;letter-spacing:.14em;color:#bed2ef}.kiosk:after{content:"camera  •  thermal  •  qr  •  print";position:absolute;bottom:10%;left:8%;right:8%;font-size:11px;text-align:center;color:#718099}.nodes-label{position:absolute;left:18px;top:16px;z-index:2;font:12px ui-monospace,SFMono-Regular,Menlo,monospace;color:#dbe7f8aa}.repo-art{position:absolute;inset:0;display:grid;place-items:center}.cube{width:130px;height:130px;border:1px solid #8294ad;transform:rotate(45deg);box-shadow:0 0 0 22px #192230,0 0 0 23px #516078;animation:spin 14s linear infinite}@keyframes spin{to{transform:rotate(405deg)}}footer{padding:60px 2px 0;color:#758195;font-size:.82rem}
+@media(max-width:720px){.wrap{padding-inline:12px}.hero{min-height:52vh}.card,.card.feature{grid-column:span 12;min-height:360px}.feature{min-height:520px}.feature .visual{min-height:330px}.visual{min-height:220px}.filters{top:0;padding-top:8px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<section class="hero">
+<div class="eyebrow">Launchpad Labs · visual workbench</div>
+<h1>Pretty things that compute.</h1>
+<p>A growing gallery of 3D spaces, graph visualisations, browser experiments and useful interfaces built across a long-running software laboratory.</p>
+</section>
+<div class="filters" aria-label="Gallery filters">
+<button class="active" data-filter="all">All</button><button data-filter="visualisation">Visualisation</button><button data-filter="3d">3D</button><button data-filter="interfaces">Interfaces</button><button data-filter="code">Code</button>
+</div>
+<main class="grid" id="gallery">
+<article class="card feature" data-kind="visualisation">
+<div class="visual"><div class="nodes-label">LIFE IN GRAPHS · live gallery sketch</div><canvas id="graph"></canvas></div>
+<div class="meta"><h2>Life in Graphs</h2><p>Growing node graphs and animated relationships. The original videos are being recovered from the WebGL Spacelab / YouTube and Facebook archives.</p><div class="tags"><span class="tag">nodes</span><span class="tag">graphs</span><span class="tag">animation</span><span class="tag">browser</span></div><div class="note">The animation above is a new gallery sketch inspired by the original series, not an original capture.</div></div>
+</article>
+<article class="card" data-kind="3d">
+<div class="visual"><div class="grid3d"></div><div class="orb"></div></div>
+<div class="meta"><h2>3D Spaces</h2><p>Browser-native spatial interfaces, experiments and the evolving SCA three-dimensional workspace.</p><div class="tags"><span class="tag">WebGL</span><span class="tag">Three.js</span><span class="tag">spatial UI</span></div><div class="note">Original captures are next in the archive-recovery queue.</div></div>
+</article>
+<article class="card" data-kind="interfaces">
+<div class="visual"><div class="logs"><span>12:08:41  gcp.worker    event accepted</span><span>12:08:42  azure.bridge  heartbeat nominal</span><span>12:08:44  slack.ingest  payload mapped</span><span>12:08:45  api.gateway   200 /events</span><span>12:08:49  radar.audit   trace expanded</span><span>12:08:52  pubsub        queue clear</span><span>12:08:57  worker        status green</span><span>12:09:02  client        detail folded</span></div></div>
+<div class="meta"><h2>Radar Audit Log</h2><p>A central browser view for distributed logs from cloud services, containers, APIs and serverless functions.</p><div class="tags"><span class="tag">Node</span><span class="tag">React</span><span class="tag">GCP</span><span class="tag">observability</span></div></div>
+</article>
+<article class="card" data-kind="interfaces">
+<div class="visual"><div class="kiosk"></div></div>
+<div class="meta"><h2>Kiosk OS</h2><p>A web-connected industrial access interface tying cameras, thermal sensors, QR, fingerprint and printing hardware into one workflow.</p><div class="tags"><span class="tag">IoT</span><span class="tag">React</span><span class="tag">Node</span><span class="tag">hardware</span></div></div>
+</article>
+<article class="card" data-kind="code">
+<div class="visual"><div class="repo-art"><div class="cube"></div></div></div>
+<div class="meta"><h2>Public Code Fossils</h2><p>Older prototypes, experiments and code samples that survived the migrations.</p><div class="tags"><span class="tag">GitHub</span><span class="tag">prototypes</span><span class="tag">archive</span></div><div class="links"><a href="https://github.com/alex-mccombie/resume_readme">Resume-as-code</a><a href="https://github.com/alex-mccombie/symbiote2">Symbiote 2</a><a href="https://github.com/alex-mccombie/weather3">Weather 3</a></div></div>
+</article>
+<article class="card" data-kind="visualisation 3d interfaces code">
+<div class="visual"><div class="repo-art"><div style="font-size:clamp(2rem,8vw,5rem);letter-spacing:-.07em;font-weight:800;text-align:center">MORE<br>FOSSILS<br>INCOMING</div></div></div>
+<div class="meta"><h2>Archive Recovery</h2><p>Next sources: WebGL Spacelab, the renamed YouTube channel, Google Drive and Alex’s Facebook posts archive on APOLLO.</p><div class="tags"><span class="tag">YouTube</span><span class="tag">Facebook</span><span class="tag">Drive</span><span class="tag">APOLLO</span></div></div>
+</article>
+</main>
+<footer>Gallery v0.1 · deliberately lightweight · no framework · responsive from phone to desktop · original media is added only after provenance/publication review.</footer>
+</div>
+<script>
+const buttons=[...document.querySelectorAll('[data-filter]')],cards=[...document.querySelectorAll('.card')];
+buttons.forEach(b=>b.onclick=()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');const f=b.dataset.filter;cards.forEach(c=>c.hidden=f!=='all'&&!c.dataset.kind.split(' ').includes(f))});
+const c=document.getElementById('graph'),x=c.getContext('2d');let pts=[];function size(){const r=c.getBoundingClientRect();c.width=r.width*devicePixelRatio;c.height=r.height*devicePixelRatio;x.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0)}addEventListener('resize',size);size();
+function seed(){const r=c.getBoundingClientRect();pts=Array.from({length:34},(_,i)=>({x:r.width*(.15+Math.random()*.7),y:r.height*(.15+Math.random()*.7),vx:(Math.random()-.5)*.25,vy:(Math.random()-.5)*.25,p:i?Math.floor(Math.random()*i):-1}));}seed();
+function draw(){const r=c.getBoundingClientRect();x.clearRect(0,0,r.width,r.height);for(const p of pts){p.x+=p.vx;p.y+=p.vy;if(p.x<10||p.x>r.width-10)p.vx*=-1;if(p.y<10||p.y>r.height-10)p.vy*=-1}x.lineWidth=1;for(const p of pts){if(p.p>=0){const q=pts[p.p];x.strokeStyle='rgba(176,205,246,.18)';x.beginPath();x.moveTo(p.x,p.y);x.lineTo(q.x,q.y);x.stroke()}}for(let i=0;i<pts.length;i++){const p=pts[i],pulse=2.2+Math.sin(Date.now()/600+i)*.7;x.fillStyle=i%7===0?'rgba(240,246,255,.95)':'rgba(157,194,244,.72)';x.beginPath();x.arc(p.x,p.y,pulse,0,Math.PI*2);x.fill()}requestAnimationFrame(draw)}draw();
+</script>
+</body>
+</html>
